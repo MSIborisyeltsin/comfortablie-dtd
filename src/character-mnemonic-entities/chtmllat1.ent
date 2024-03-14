@@ -9,7 +9,7 @@ file: chtmllat1.ent
 
 Typical invocation:
 
-  <!ENTITY % СHTMLlat1 SYSTEM "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmllat1.dtd">
+  <!ENTITY % СHTMLlat1 SYSTEM "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmllat1.ent">
   %СHTMLlat1;
 
 Copyleft (c) 2019-2024 Volant127 ((UnRC, EICC "Kötü Tavşan") under the auspices of JI_n&C),
