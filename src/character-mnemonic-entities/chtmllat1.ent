@@ -18,22 +18,16 @@ All Rights Reserved.
 Permission to use in any form must be used in accordance with the GNU AGPL v.3.0
 -->
 
-<!ENTITY space  "&#160;" ><!-- no-break space = non-breaking space, U+00A0 ISOnum -->
+<!ENTITY sp     "&#160;" ><!-- no-break space = non-breaking space, U+00A0 ISOnum -->
 <!ENTITY iex    "&#161;" ><!-- inverted exclamation mark, U+00A1 ISOnum -->
-<!ENTITY cent   "&#162;" ><!-- cent sign, U+00A2 ISOnum -->
-<!ENTITY pound  "&#163;" ><!-- pound sign, U+00A3 ISOnum -->
-<!ENTITY cur    "&#164;" ><!-- currency sign, U+00A4 ISOnum -->
-<!ENTITY yen    "&#165;" ><!-- yen sign = yuan sign, U+00A5 ISOnum -->
 <!ENTITY brbar  "&#166;" ><!-- broken bar = broken vertical bar, U+00A6 ISOnum -->
 <!ENTITY sec    "&#167;" ><!-- section sign, U+00A7 ISOnum -->
 <!ENTITY copy   "&#169;" ><!-- copyright sign, U+00A9 ISOnum -->
 <!ENTITY ldq    "&#171;" ><!-- left-pointing double angle quotation mark = left pointing guillemet, U+00AB ISOnum -->
-<!ENTITY rdq  "&#187;" ><!-- right-pointing double angle quotation mark = right pointing guillemet, U+00BB ISOnum -->
+<!ENTITY rdq    "&#187;" ><!-- right-pointing double angle quotation mark = right pointing guillemet, U+00BB ISOnum -->
 <!ENTITY not    "&#172;" ><!-- not sign, U+00AC ISOnum -->
 <!ENTITY reg    "&#174;" ><!-- registered sign = registered trade mark sign, U+00AE ISOnum -->
 <!ENTITY macr   "&#175;" ><!-- macron = spacing macron = overline = APL overbar, U+00AF ISOdia -->
-<!ENTITY deg    "&#176;" ><!-- degree sign, U+00B0 ISOnum -->
-<!ENTITY pm     "&#177;" ><!-- plus-minus sign = plus-or-minus sign, U+00B1 ISOnum -->
 <!ENTITY sup1   "&#185;" ><!-- superscript one = superscript digit one, U+00B9 ISOnum -->
 <!ENTITY sup2   "&#178;" ><!-- superscript two = superscript digit two = squared, U+00B2 ISOnum -->
 <!ENTITY sup3   "&#179;" ><!-- superscript three = superscript digit three = cubed, U+00B3 ISOnum -->
@@ -109,4 +103,9 @@ Permission to use in any form must be used in accordance with the GNU AGPL v.3.0
 <!ENTITY yacute "&#253;" ><!-- latin small y with acute, U+00FD ISOlat1 -->
 <!ENTITY thorn  "&#254;" ><!-- latin small thorn with, U+00FE ISOlat1 -->
 <!ENTITY yuml   "&#255;" ><!-- latin small y with diaeresis, U+00FF ISOlat1 -->
+<!ENTITY OElig  "&#338;" ><!-- latin capital ligature OE, U+0152 ISOlat2 -->
+<!ENTITY oelig  "&#339;" ><!-- latin small ligature oe, U+0153 ISOlat2 -->
+<!ENTITY Scaron "&#352;" ><!-- latin capital letter S with caron, U+0160 ISOlat2 -->
+<!ENTITY scaron "&#353;" ><!-- latin small letter s with caron, U+0161 ISOlat2 -->
+<!ENTITY Yuml   "&#376;" ><!-- latin capital letter Y with diaeresis, U+0178 ISOlat2 -->
 <!-- end of chtmllat1.ent -->
