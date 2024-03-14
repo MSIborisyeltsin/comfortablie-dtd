@@ -19,13 +19,13 @@
 <!--================ Character mnemonic entities =========================-->
 
 <!ENTITY % СHTMLlat1 SYSTEM
-   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmllat1.dtd">
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmllat1.ent">
 %СHTMLlat1;
 
 <!ENTITY % CHTMLsymbol SYSTEM
-   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlsymbol.dtd">
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlsymbol.ent">
 %CHTMLsymbol;
 
 <!ENTITY % CHTMLspecial SYSTEM
-   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlspecial.dtd">
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlspecial.ent">
 %CHTMLspecial;
