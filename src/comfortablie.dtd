@@ -33,3 +33,37 @@
 <!ENTITY % CHTMLcurr SYSTEM
    "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlcurrency.ent">
 %CHTMLcurr;
+
+<!--================== Imported Names ====================================-->
+
+<!ENTITY % ContentType "CDATA"> <!-- media type, as per [RFC2045] -->
+<!ENTITY % ContentTypes "CDATA"> <!-- comma-separated list of media types, as per [RFC2045] -->
+<!ENTITY % Charset "CDATA"> <!-- a character encoding, as per [RFC2045] -->
+<!ENTITY % Charsets "CDATA"> <!-- a space separated list of character encodings, as per [RFC2045] -->
+<!ENTITY % LanguageCode "NMTOKEN"> <!-- a language code, as per [RFC3066] -->
+<!ENTITY % Character "CDATA"> <!-- a single character, as per section 2.2 of [XML] -->
+<!ENTITY % Number "CDATA"> <!-- one or more digits -->
+<!ENTITY % LinkTypes "CDATA"> <!-- space-separated list of link types -->
+<!ENTITY % MediaDesc "CDATA"> <!-- single or comma-separated list of media descriptors -->
+<!ENTITY % URI "CDATA"> <!-- a Uniform Resource Identifier, see [RFC2396] -->
+<!ENTITY % UriList "CDATA"> <!-- a space separated list of Uniform Resource Identifiers -->
+<!ENTITY % Datetime "CDATA"> <!-- date and time information. ISO date format -->
+<!ENTITY % Script "CDATA"> <!-- script expression -->
+<!ENTITY % StyleSheet "CDATA"> <!-- style sheet data -->
+<!ENTITY % Text "CDATA"> <!-- used for titles etc. -->
+<!ENTITY % FrameTarget "NMTOKEN"> <!-- render in this frame -->
+<!ENTITY % Length "CDATA"> <!-- nn for pixels or nn% for percentage length -->
+<!ENTITY % MultiLength "CDATA"> <!-- pixel, percentage, or relative -->
+<!ENTITY % Pixels "CDATA"> <!-- integer representing length in pixels -->
+
+<!-- these are used for image maps -->
+
+<!ENTITY % Shape "(rect|circle|poly|default)">
+
+<!ENTITY % Coords "CDATA"> <!-- comma separated list of lengths -->
+
+<!-- used for object, applet, img, input and iframe -->
+<!ENTITY % ImgAlign "(top|middle|bottom|left|right)">
+
+<!-- a color using sRGB: #RRGGBB as Hex values -->
+<!ENTITY % Color "CDATA">
