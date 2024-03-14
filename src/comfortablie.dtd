@@ -10,7 +10,7 @@
 
    This DTD module is identified by the SYSTEM identifier:
 
-   SYSTEM "https://github.com/MSIborisyeltsin/comfortablie-dtd/src/comfortablie.dtd"
+   SYSTEM "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/comfortablie.dtd"
 
    $Revision: 1.0 $
    $Date: ----- $
