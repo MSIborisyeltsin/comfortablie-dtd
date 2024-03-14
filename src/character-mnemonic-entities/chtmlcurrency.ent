@@ -1,0 +1,49 @@
+<!--
+......................................................................
+XML-compatible ISO Currency Entity Set for CHTML
+......................................................................
+-->
+
+<!--
+file: chtmlcurrency.ent
+
+Typical invocation:
+
+  <!ENTITY % СHTML SYSTEM "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlspecial.ent">
+  %СHTMLcurr;
+
+Copyleft (c) 2019-2024 Volant127 ((UnRC, EICC "Kötü Tavşan") under the auspices of JI_n&C),
+All Rights Reserved.
+
+Permission to use in any form must be used in accordance with the GNU AGPL v.3.0
+-->
+
+<!ENTITY dollar  "&#36;" ><!-- dollar, U+0024 ISOnum -->
+<!ENTITY cent    "&#162;" ><!-- cent sign, U+00A2 ISOnum -->
+<!ENTITY pound   "&#163;" ><!-- pound sign, U+00A3 ISOnum -->
+<!ENTITY cur     "&#164;" ><!-- currency sign, U+00A4 ISOnum -->
+<!ENTITY yen     "&#165;" ><!-- yen sign = yuan sign, U+00A5 ISOnum -->
+<!ENTITY taka    "&#2547;"><!-- Bangladeshi taka, U+09F3 ISOnum-->
+<!ENTITY thbath  "&#3647;" ><!-- thai baht, U+0E3F ISOnum -->
+<!ENTITY cri     "&#6107;" ><!-- Cambodian Riel, U+17DB ISOnum -->
+<!ENTITY scolon  "&#8353;" ><!-- salvadoran colon, U+20A1 ISOnum -->
+<!ENTITY cruz    "&#8354;" ><!-- brazilian cruzeiro, U+20A2 ISOnum -->
+<!ENTITY franc   "&#8355;" ><!-- french franc, U+20A3 ISOnum -->
+<!ENTITY lira    "&#8356;" ><!-- italian lira, U+20A4 ISOnum -->
+<!ENTITY naira   "&#8358;" ><!-- nigerian naira, U+20A6 ISOnum -->
+<!ENTITY mill    "&#8359;" ><!-- mill sign, U+20A7 ISOnum -->
+<!ENTITY won     "&#8361;" ><!-- Korean Won, U+20A9 ISOnum -->
+<!ENTITY shekel  "&#8362;" ><!-- New Shekel Sign, U+20AA ISOnum -->
+<!ENTITY dong    "&#8363;" ><!-- vietnamese dong, U+20AB ISOnum -->
+<!ENTITY kip     "&#8365;" ><!-- lao kip, U+20AD ISOnum -->
+<!ENTITY tugrik  "&#8366;" ><!-- Mongolian Tugrik, U+20AE ISOnum -->
+<!ENTITY drachma "&#8367;" ><!-- Greek Drachma, U+20AC ISOnum -->
+<!ENTITY pfennig "&#8368;" ><!-- German Pfennig, U+20A1 ISOnum -->
+<!ENTITY peso    "&#8369;" ><!-- peso Sign, U+20B1 ISOnum -->
+<!ENTITY guarani "&#8370;" ><!-- paraguayan guarani, U+20B2 ISOnum -->
+<!ENTITY argaust "&#8371;" ><!-- argentine austral, U+20B3 ISOnum -->
+<!ENTITY hryvnia "&#8372;" ><!-- Ukrainian Hryvnia, U+20B4 ISOnum -->
+<!ENTITY tenge   "&#8376;" ><!-- Kazakhstani Tenge, U+20B8 ISOnum -->
+<!ENTITY ruble   "&#8381;" ><!-- Russian Ruble, U+20BD ISOnum -->
+<!ENTITY btcsign "&#8383;" ><!-- bitcoin sign, U+20BF ISOnum -->
+<!ENTITY iri     "&#65020;" ><!-- Iranian Riel, U+FDFC ISOnum -->
