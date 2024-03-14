@@ -1,4 +1,7 @@
 # Extensible HTML: Comfortablie
+
+**Status:** undergoing performance testing
+
 ### What is СHTML?
 
 > [!NOTE]
