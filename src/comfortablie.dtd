@@ -3,17 +3,17 @@
 
    Namespace = https://github.com/MSIborisyeltsin/comfortablie-dtd
 
-   For further information, see: -----
+   For further information, see: ???
 
    Copyleft (c) 2019-2024 Volant127 ((UnRC, EICC "Kötü Tavşan") under the auspices of JI_n&C),
-   All Rights Reserved. 
+   All Rights Reserved.
 
    This DTD module is identified by the SYSTEM identifier:
 
    SYSTEM "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/comfortablie.dtd"
 
    $Revision: 1.0 $
-   $Date: ----- $
+   $Date: ??? $
 -->
 
 <!--================ Character mnemonic entities =========================-->
@@ -29,3 +29,7 @@
 <!ENTITY % CHTMLspecial SYSTEM
    "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlspecial.ent">
 %CHTMLspecial;
+
+<!ENTITY % CHTMLcurr SYSTEM
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlcurrency.ent">
+%CHTMLcurr;
