@@ -15,3 +15,17 @@
    $Revision: 1.0 $
    $Date: ----- $
 -->
+
+<!--================ Character mnemonic entities =========================-->
+
+<!ENTITY % СHTMLlat1 SYSTEM
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmllat1.dtd">
+%СHTMLlat1;
+
+<!ENTITY % CHTMLsymbol SYSTEM
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlsymbol.dtd">
+%CHTMLsymbol;
+
+<!ENTITY % CHTMLspecial SYSTEM
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlspecial.dtd">
+%CHTMLspecial;
