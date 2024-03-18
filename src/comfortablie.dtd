@@ -36,7 +36,7 @@
 
 <!--================== Imported Names ====================================-->
 
-<!--ENTITY % global "
+<! ENTITY % global "
     accesskey CDATA #IMPLIED
     class CDATA #IMPLIED
     contenteditable (true | false)  #IMPLIED
@@ -110,7 +110,7 @@
     ontimeupdate CDATA #IMPLIED
     onvolumechange CDATA #IMPLIED
     onwaiting CDATA #IMPLIED
-    "-->
+    ">
 <!ENTITY % phrase "a | area | link | meta | style | abbr | audio | b | bdi | bdo | br | button | code | command | data | datalist | del | embed | i | img | input | ins | kbd | keygen | label | map | mark | menu | meter | noscript | object | output | progress | s | samp | script | select | span | sub | sup | textarea | time | u | video | wbr | applet | bgsound | basefont | marquee | (#PCDATA)">
 <!ENTITY % flow "details | div | fieldset | footer | form | h1 | h2 | h3 | h4 | h5 | h6 | header | hgroup | hr | nav | ol | p | pre | table | ul | center | %phrase;">
 
@@ -312,6 +312,8 @@
   align (top|middle|bottom|left|right) #IMPLIED
   hspace NUMBER #IMPLIED
   vspace NUMBER #IMPLIED
+  gif (t | f) #IMPLIED
+  killtime NUMBER #IMPLIED
   >
 
 <!ELEMENT input - O EMPTY>
