@@ -1,16 +1,16 @@
 <!--
-   Extensible HTML version 1.0 Comfortablie DTD
+   Extensible HTML version 1.0 Comfy DTD
 
-   Namespace = https://github.com/MSIborisyeltsin/comfortablie-dtd
+   Namespace = https://github.com/MSIborisyeltsin/comfy-dtd
 
    For further information, see: ???
 
-   Copyleft (c) 2019-2024 Volant127 ((UnRC, EICC "Kötü Tavşan") under the auspices of JI_n&C),
+   Copyleft (ↄ) 2019-2024 Volant127 ((UnRC, EICC "Kötü Tavşan") under the auspices of JI_n&C),
    All Rights Reserved.
 
    This DTD module is identified by the SYSTEM identifier:
 
-   SYSTEM "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/comfortablie.dtd"
+   SYSTEM "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/comfy.dtd"
 
    $Revision: 1.0 $
    $Date: 14/03/2024 $
@@ -19,19 +19,19 @@
 <!--================ Character mnemonic entities =========================-->
 
 <!ENTITY % СHTMLlat1 SYSTEM
-   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmllat1.ent">
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfy-dtd/main/src/character-mnemonic-entities/chtmllat1.ent">
 %СHTMLlat1;
 
 <!ENTITY % CHTMLsymbol SYSTEM
-   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlsymbol.ent">
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfy-dtd/main/src/character-mnemonic-entities/chtmlsymbol.ent">
 %CHTMLsymbol;
 
 <!ENTITY % CHTMLspecial SYSTEM
-   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlspecial.ent">
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfy-dtd/main/src/character-mnemonic-entities/chtmlspecial.ent">
 %CHTMLspecial;
 
 <!ENTITY % CHTMLcurr SYSTEM
-   "https://raw.githubusercontent.com/MSIborisyeltsin/comfortablie-dtd/main/src/character-mnemonic-entities/chtmlcurrency.ent">
+   "https://raw.githubusercontent.com/MSIborisyeltsin/comfy-dtd/main/src/character-mnemonic-entities/chtmlcurrency.ent">
 %CHTMLcurr;
 
 <!--================== Imported Names ====================================-->
