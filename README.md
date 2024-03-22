@@ -1,4 +1,4 @@
-# Extensible HTML: Comfortablie
+# Extensible HTML: Comfy
 
 **Status:** undergoing performance testing
 
