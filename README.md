@@ -1,4 +1,4 @@
-# Extensible HTML: Comfortablie
+# Extensible HTML: Comfy
 ### What is СHTML?
 
 > [!NOTE]
