@@ -16,6 +16,14 @@ The benefits of moving to CHTML 1.0 are described above. Some of the benefits of
 - XHTML is designed with usability in mind.
 - XHTML is open to editing and adding new elements. Anyone who is a member of GitHub can do this using pull requests.
 
+<!--
+## Specification
+
+## References
+
+## Additional Knowledge
+-->
+
 <h3 align="left">Made With:</h3>
 <p align="left"></p>
 <img src="https://github.com/MSIborisyeltsin/comfortablie-dtd/assets/95223648/6ce05b13-3635-42c5-b280-606a0afb974b" title="Document Type Definition" alt="DTD" width="50"/>
