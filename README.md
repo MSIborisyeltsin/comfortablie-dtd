@@ -13,8 +13,8 @@
 The benefits of moving to CHTML 1.0 are described above. Some of the benefits of moving to XHTML in general:
 
 - Document developers and user agent designers are constantly discovering new ways to express their ideas using new markup. In XML it is relatively easy to introduce new elements or additional elements. element attributes. CHTML is designed to implement these extensions through CHTML modules and methods for developing new CHTML-compatible modules. These modules will allow you to combine existing and new feature sets when developing content and when developing new user agents.
-- XHTML is designed with usability in mind.
-- XHTML is open to editing and adding new elements. Anyone who is a member of GitHub can do this using pull requests.
+- CHTML is designed with usability in mind.
+- CHTML is open to editing and adding new elements. Anyone who is a member of GitHub can do this using pull requests.
 
 <!--
 ## Specification
