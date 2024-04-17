@@ -30,7 +30,7 @@ The benefits of moving to CHTML 1.0 are described above. Some of the benefits of
 
 ## Copyleft
 
-Copyleft &copy; 2019-2024 Volant127 ((UnRC, EICC "Kötü Tavşan") under the auspices of JI_n&C),
+Copyleft &copy; 2019-2024 Volant127 (under the auspices of "Digital Biohazard Holdings Ltd"),
 All Rights Reserved.
 
 Permission to use in any form must be used in accordance with the GNU AGPL v.3.0
